@@ -16,3 +16,11 @@ Due to the large volume of the data, the dataset was divided into several sub-da
 Then, questions of interest were answered through graphs involving the corresponding section of the original data.
 
 # Results
+The different graphs we obtained after the whole process provided diverse insight into the demographical characteristics of the respondents, their economic situation, hardships, satisfactions, workload, and learnings.
+
+Some notable conclusions are:
+- The majority of master's students are located in China.
+- International students are more abundant in the Netherlands.
+- Less than half of graduate students will not pursue a career in academia.
+- Surprisingly, there is not much preoccupation about acquired student debt.
+
